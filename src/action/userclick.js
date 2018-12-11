@@ -1,7 +1,6 @@
 const clickUserAction= function(user){
 
     return({
-
         type:"USER_CLICKED",
         payload:user 
     })
